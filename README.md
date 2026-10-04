@@ -5,6 +5,8 @@
 I’m a Data Analyst focused on transforming raw data into meaningful insights,
 dashboards, and practical business solutions.
 
+🌐 **[Visit My Portfolio](https://subhajit-maity-portfolio.vercel.app/)**
+
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (Data Science)
@@ -64,3 +66,4 @@ AI chatbot application using Gemini API.
 
 - GitHub: https://github.com/smaity40
 - LinkedIn: https://www.linkedin.com/in/subhajit-maity40
+- Portfolio: [subhajit-maity-portfolio.vercel.app](https://subhajit-maity-portfolio.vercel.app/)
